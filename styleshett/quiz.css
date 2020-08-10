@@ -1,0 +1,25 @@
+body{
+
+    background-color: pink;
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 2rem;
+
+}
+
+#button{
+
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    margin-top: 50px;
+   
+}
+
+fieldset{
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: yellow;
+}
